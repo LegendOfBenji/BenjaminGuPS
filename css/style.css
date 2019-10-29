@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-brand {
-  color: #fff;
+  color: #1ca3ec;
   font-size: 34px;
   text-transform: uppercase;
   font-weight: 700;
@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
-  color: #FFD34E;
+  color: #1ca3ec;
   text-transform: uppercase;
 	background-color: transparent;
 }
@@ -87,7 +87,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-  color: #FFD34E;
+  color: #1ca3ec;
 }
 
 .navbar-fixed-top {
@@ -144,7 +144,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn-submit {
-  background: #FFD34E;
+  background: #1ca3ec;
   border: 0px;
   display: inline-block;
   font-size: 16px;
@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6 {
   -ms-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
   margin-top: 25px;
-  border: 2px solid #FFD34E;
+  border: 2px solid #1ca3ec;
 }
 
 .btn-submit:hover {
@@ -176,7 +176,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .cta-info {
-  border: 5px solid #FFD34E;
+  border: 5px solid #1ca3ec;
       padding: 25px 15px;
 }
 
@@ -339,11 +339,11 @@ h3.txt-tl {
 .btn-send {
   border-radius: 0px;
   color: #000;
-  background-color: #FFD34E;
+  background-color: #1ca3ec;
 }
 
 a, a:hover {
-  color: #FFD34E;
+  color: #1ca3ec;
 }
 
 .cont-title {
