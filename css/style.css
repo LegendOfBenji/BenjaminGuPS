@@ -257,7 +257,7 @@ h3.txt-tl {
 }
 
 .bg-image-2 {
-  background: url('../img/cta-banner.jpg') no-repeat center fixed;
+  background: url('../img/codingbackground.png') no-repeat center fixed;
   -webkit-background-size: 100% auto;
   -moz-background-size: 100% auto;
   -o-background-size: 100% auto;
@@ -463,3 +463,11 @@ a, a:hover {
 }
 
 /****/
+
+ul.sec-para {
+  padding-left: 0px;
+}
+
+.sec-para li {
+  list-style: lower-roman;
+}

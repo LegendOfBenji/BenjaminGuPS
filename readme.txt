@@ -1,5 +1,6 @@
-Thanks for downloading this theme!
 
+
+Credit:
 Theme Name: Bethany
 Theme URL: https://bootstrapmade.com/bethany-free-onepage-bootstrap-theme/
 Author: BootstrapMade.com
