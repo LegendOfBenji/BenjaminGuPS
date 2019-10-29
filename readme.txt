@@ -1,5 +1,5 @@
 Here's my personal website featuring my projects and technologies that I know.
-<a href="https://legendofbenji.github.io/BenjaminGuPS/" />Live Link Here</a>
+<a href="https://legendofbenji.github.io/BenjaminGuPS/">Live Link Here</a>
 
 Credit:
 Theme Name: Bethany
